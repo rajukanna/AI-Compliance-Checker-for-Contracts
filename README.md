@@ -119,8 +119,8 @@ Outputs + Notifications + Audit Logs
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/springboardmentor587-star/Compliance-Checker.git
-cd Compliance-Checker
+git clone https://github.com/rajukanna/AI-Compliance-Checker-for-Contracts
+cd AI-Compliance-Checker-for-Contracts
 ````
 
 ### 2️⃣ Create Virtual Environment
